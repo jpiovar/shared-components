@@ -19,4 +19,4 @@ var MyCounter = function (_a) {
         react_1.default.createElement("button", { onClick: onPlus }, "+")));
 };
 exports.default = MyCounter;
-//# sourceMappingURL=App.js.map
+//# sourceMappingURL=MyCounter.js.map
