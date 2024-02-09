@@ -5,7 +5,7 @@ const CustomButton = () => {
    
     return (
         <div>
-            <button >Custom button</button>
+            <button >Custom button 1</button>
         </div>
     )
 }
